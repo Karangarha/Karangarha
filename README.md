@@ -1,8 +1,10 @@
-#  Karanpreet Singh
-
+<div align="center">  <h1>Karanpreet singh</h1>
+  
  **Roselle Park, NJ** 
 **929-755-3239** |  **garhasaab001@gmail.com**  
 [LinkedIn](https://linkedin.com/in/karanpreet-singh-1381822a0) | [GitHub](https://github.com/Karangarha) |  [Portfolio](https://karanpreet-singh.vercel.app)
+
+</div>
 
 ---
 
@@ -31,11 +33,16 @@
 ## Experience
 ### Kean ACM | Web Developer
  *Sep 2024 – Present* 
-*  Directed cross-functional collaboration with e-board members to align technical roadmaps with organizational objectives using Agile sprints for 100+ members.
-*  Engineered a full-stack application with TypeScript, React, and Tailwind CSS, deployed via Vercel using GitHub Actions CI/CD pipeline.
-*  Developed a scalable RESTful API with Node.js/Express on Azure and MongoDB, reducing data-retrieval latency.
-*  Implemented Role-Based Access Control (RBAC) for a secure administrative dashboard.
-*  Streamlined asset management via Cloudinary's CDN and utilized Antigravity AI for automated debugging, reducing post-deployment bugs by 30%.
+*   Directed cross-functional collaboration with e-board members to align technical roadmaps with organizational objectives, 
+implementing Agile sprints to deliver community features for a user base of 100+ members.
+*  Engineered a full-stack application with TypeScript, React, and Tailwind CSS, deployed via Vercel using a GitHub 
+Actions CI/CD pipeline, which cut deployment time in half and improved page-load performance for the user base
+*  Developed a scalable RESTful API with Node.js/Express on Azure and MongoDB for member and event data, enabling 
+real-time access for over 100 members and reducing data-retrieval latency
+*  Implemented Role-Based Access Control (RBAC) for a secure administrative dashboard, decreasing unauthorized access 
+incidents and streamlining profile and event management for members
+*  Streamlined asset management via Cloudinary’s CDN and improved codebase stability by utilizing Antigravity AI for 
+automated debugging, resulting in a 30% reduction in post-deployment bugs and enhanced test coverage.
 
 ### Kean University | Supplemental Instruction (SI) Leader
  *Jan 2025 – Present*
@@ -47,13 +54,19 @@
 
 ## Projects
 ### Personal Interactive Portfolio |  [karanpreet-singh.vercel.app](https://karanpreet-singh.vercel.app)
-*  Developed a dynamic, responsive portfolio with React, Tailwind CSS, and Vite; engineered 3D elements using Three.js and Vanta.js.
-*  Implemented scroll-triggered animations and fluid micro-interactions utilizing Framer Motion.
-*  Integrated a serverless email notification system via EmailJS for real-time professional inquiries.
-*  Designed a scalable component architecture to easily accommodate future content updates following Agile methodology.
+  *Feb 2026 - Present*
+*  Developed a dynamic, responsive personal portfolio with React, Tailwind CSS, and Vite, and Engineered immersive 3D 
+background elements and interactive features using Three.js and Vanta.js.
+*  Implemented scroll-triggered animations and fluid micro-interactions utilizing Framer Motion and optimizing user 
+engagement through adaptive dark/light theme responsiveness.
+*  Integrated a serverless email notification system via EmailJS into a custom contact form, enabling seamless, real-time 
+communication for professional inquiries without requiring a dedicated backend.
+*  Designed a scalable, maintainable component architecture, separating data constants (skills, projects) from presentation 
+layers to easily accommodate future content updates and expansions following the agile methodology.
 
 ### Restaurant Management Platform |  [constance-s-cuisine.vercel.app](https://constance-s-cuisine.vercel.app)
  *Oct 2025 – Dec 2025*
-*  Architected a full-stack dashboard for real-time menu management and order tracking.
-*  Implemented Supabase Realtime for instant kitchen order updates without page reloads.
-*  Designed a type-safe Admin Panel with TypeScript and integrated Role-Based Access Control (RBAC) via Supabase Auth.
+* Architecting a full-stack dashboard enabling real-time menu management and order tracking for client.
+* Implementing Supabase Realtime to push instant order updates to the kitchen view without page reloads.
+* Designing a type-safe Admin Panel with TypeScript, reducing runtime errors in CRUD operations
+* Integrating Role-Based Access Control (RBAC) via Supabase Auth to secure admin routes vs. customer views.
