@@ -31,7 +31,7 @@
 ---
 
 ## Experience
-### Kean ACM | Web Developer | [keanacm.com](www.keanacm.com)
+### Kean ACM | Web Developer | [www.keanacm.com](https://www.keanacm.com/)
  *Sep 2025 – Present* 
 *   Directed cross-functional collaboration with e-board members to align technical roadmaps with organizational objectives, 
 implementing Agile sprints to deliver community features for a user base of 100+ members.
