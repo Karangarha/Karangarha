@@ -32,7 +32,7 @@
 
 ## Experience
 ### Kean ACM | Web Developer
- *Sep 2024 – Present* 
+ *Sep 2025 – Present* 
 *   Directed cross-functional collaboration with e-board members to align technical roadmaps with organizational objectives, 
 implementing Agile sprints to deliver community features for a user base of 100+ members.
 *  Engineered a full-stack application with TypeScript, React, and Tailwind CSS, deployed via Vercel using a GitHub 
