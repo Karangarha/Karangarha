@@ -1,6 +1,6 @@
 <div align="center">  <h1>Karanpreet singh</h1>
   
- **Roselle Park, NJ** 
+ **Roselle Park, NJ**  | 
 **929-755-3239** |  **garhasaab001@gmail.com**  
 [LinkedIn](https://linkedin.com/in/karanpreet-singh-1381822a0) | [GitHub](https://github.com/Karangarha) |  [Portfolio](https://karanpreet-singh.vercel.app)
 
